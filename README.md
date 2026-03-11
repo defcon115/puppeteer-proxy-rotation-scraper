@@ -36,7 +36,7 @@ Installation
 Make sure you have Node.js v18+ installed.
 </> Bash
 # Clone the repository
-git clone https://github.com/yourusername/puppeteer-netnut-scraper.git
+git clone https://github.com/defcon115/puppeteer-netnut-scraper.git
 cd puppeteer-netnut-scraper
 
 # Install dependencies
