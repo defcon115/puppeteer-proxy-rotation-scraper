@@ -36,8 +36,8 @@ Installation
 Make sure you have Node.js v18+ installed.
 </> Bash
 # Clone the repository
-git clone https://github.com/defcon115/puppeteer-netnut-scraper.git
-cd puppeteer-netnut-scraper
+git clone https://github.com/defcon115/puppeteer-proxy-rotation-scraper.git
+cd puppeteer-proxy-rotation-scraper
 
 # Install dependencies
 npm install
