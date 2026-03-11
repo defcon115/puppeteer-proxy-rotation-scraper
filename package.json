@@ -1,0 +1,14 @@
+</>Json
+{
+"name": "puppeteer-proxy-rotation-scraper",
+"version": "1.0.0",
+"description": "High performance scraping with Puppeteer and NetNut proxies",
+"main": "scraper/scraper.js",
+"scripts": {
+"start": "node scraper/scraper.js"
+},
+"dependencies": {
+"puppeteer": "^21.0.0",
+"dotenv": "^16.0.0"
+}
+}
