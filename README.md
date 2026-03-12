@@ -23,7 +23,6 @@ Error Handling & Logging
 Automatic error logging and graceful handling of failed requests.
 
 Table of Contents
-
 ->Installation
 ->Configuration
 ->Usage
